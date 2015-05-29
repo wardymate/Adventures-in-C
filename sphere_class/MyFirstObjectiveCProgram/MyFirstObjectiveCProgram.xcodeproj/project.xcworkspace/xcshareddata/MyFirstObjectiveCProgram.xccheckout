@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>13364D87-4588-411E-B7C8-030AB0F12AD6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MyFirstObjectiveCProgram</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C962363F4C894DE90786119C0A79AFD4F188474B</key>
+		<string>https://github.com/wardymate/Adventures-in-C.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>sphere_class/MyFirstObjectiveCProgram/MyFirstObjectiveCProgram.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C962363F4C894DE90786119C0A79AFD4F188474B</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wardymate/Adventures-in-C.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C962363F4C894DE90786119C0A79AFD4F188474B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C962363F4C894DE90786119C0A79AFD4F188474B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Development</string>
+		</dict>
+	</array>
+</dict>
+</plist>
